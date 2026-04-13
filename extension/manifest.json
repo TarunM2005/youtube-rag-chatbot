@@ -1,0 +1,20 @@
+{
+  "manifest_version": 3,
+  "name": "YouTube AI Chatbot",
+  "version": "2.0",
+  "description": "Chat with YouTube videos using AI (RAG + Voice + Timestamps)",
+
+  "permissions": [
+    "activeTab",
+    "tabs",
+    "storage"
+  ],
+
+  "host_permissions": [
+    "http://127.0.0.1:8000/*"
+  ],
+
+  "action": {
+    "default_popup": "popup.html"
+  }
+}
