@@ -110,7 +110,7 @@ youtube-rag-chatbot/
 ## 👨‍💻 Author
 
 **Tarun M**
-B.E. Artificial Intelligence & Machine Learning
+
 
 ---
 
